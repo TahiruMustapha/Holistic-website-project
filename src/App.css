@@ -1,0 +1,10 @@
+:root{
+    --top-color:#CF0A0A;
+    --green1:#357C3C;
+    --green2:#247645;
+    --btn-color:(180deg,#FFD809 0% , rgba(252,121,0,0.5) 100%);
+    --yellow-text:#BFAB25;
+    --black-text:rgba(0,0,0,0.7);
+    --box-shadow:rgba(0,0,0,0.25);
+    --box-color:rgba(255,255,255,0.6);
+}

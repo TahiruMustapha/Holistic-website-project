@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@1,9..144,900&display=swap');
+body{
+    font-family: 'Barlow', sans-serif;
+    /* font-family: 'Fraunces', serif */
+}
+form input{
+    font-size: 1.2rem;
+}
+form textarea{
+    font-size: 1.2rem;
+}
